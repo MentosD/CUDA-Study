@@ -1,0 +1,3 @@
+﻿  cdm.cpp
+D:\CUDAstudy\demo08\demo08\cdm.cpp(47,15): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+  demo08.vcxproj -> D:\CUDAstudy\demo08\demo08\Debug\demo08.exe

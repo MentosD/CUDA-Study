@@ -1,0 +1,4 @@
+﻿  demo09CDM.cpp
+D:\CUDAstudy\demo09CDM\demo09\demo09CDM.cpp(72,15): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+D:\CUDAstudy\demo09CDM\demo09\demo09CDM.cpp(90,46): error C2440: “初始化”: 无法从“double”转换为“double [3][3]”
+D:\CUDAstudy\demo09CDM\demo09\demo09CDM.cpp(90,21): message : 没有转换为数组类型，但有转换为数组的引用或指针
